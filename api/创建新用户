@@ -1,0 +1,4 @@
+
+
+
+curl -X POST -d '{"usernames":["zhangll09"],"admin":false}' http://192.168.40.179:8281/hub/api/users

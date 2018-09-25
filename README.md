@@ -66,3 +66,14 @@ wget https://repo.anaconda.com/archive/Anaconda3-5.1.0-Linux-x86_64.sh
 
 7. 创建用户,并给用户创建组jupyterhub
     文件地址已经写好放在项目中的创建用户脚本中
+
+
+8. 修改jupyterhub以及jupyter的js和css以及html文件
+    hub 路径地址
+    ```
+    /home/anaconda3/pkgs/jupyterhub-0.8.1-py36_0/share/jupyter/hub/static
+    ```
+    jupyter 路径
+    ```
+    /home/anaconda3/lib/python3.6/site-packages/notebook/static
+    ```
