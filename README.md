@@ -77,3 +77,5 @@ wget https://repo.anaconda.com/archive/Anaconda3-5.1.0-Linux-x86_64.sh
     ```
     /home/anaconda3/lib/python3.6/site-packages/notebook/static
     ```
+9. 跨域访问 不同端口之间的通信 或者说 子父iframe之间的通信
+    在jupyter页面中的页面显示,同时根据item_link查询,定位到指定时间用来 /home/anaconda3/lib/python3.6/site-packages/notebook/static/tree/js/main.min.js
